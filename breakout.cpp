@@ -1,3 +1,6 @@
+// scp [ubuntu]@[IP address]:[ubuntu file or directory] [window path]
+// scp cyun@192.168.198.128:~/Finalexam/t7.cpp C:\Users\student\Desktop
+
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_ttf.h>
 
